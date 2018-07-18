@@ -1,0 +1,123 @@
+﻿body {
+}
+
+.record-form {
+    max-width: 100%;
+    padding: 10px 20px;
+    margin: -15px -15px 0px -15px;
+    padding: 40px;
+    background: #f4f7f8;
+    background: #f4f7f8;
+    border-radius: 8px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+    .record-form fieldset {
+        border: none;
+    }
+
+    .record-form legend {
+        font-size: 1.4em;
+        margin-bottom: 10px;
+    }
+
+    .record-form label {
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    .record-form .number {
+        background: #1abc9c;
+        color: #fff;
+        height: 30px;
+        width: 30px;
+        display: inline-block;
+        font-size: 0.8em;
+        margin-right: 4px;
+        line-height: 30px;
+        text-align: center;
+        text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+        border-radius: 15px 15px 15px 0px;
+    }
+
+.form-title {
+    text-align: center;
+    font-weight: lighter;
+    font-family: -apple-system;
+    color: #0069d9;
+}
+
+.label {
+    color: black
+}
+
+.textbox {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 7px;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 30px;
+    border-radius: 0.7px;
+}
+
+.btn-insert, .btn-search, .btn-update, .btn-cancel, .btn-delete {
+    height: 35px;
+    font-weight: lighter;
+    background: #1abc9c;
+    border-radius: 10px;
+    color: #f4f7f8;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+    .btn-insert:hover, .btn-search:hover, .btn-update:hover, .btn-cancel:hover, .btn-delete:hover {
+        background: #109177;
+    }
+
+.table-style {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .table-style td, .table-style th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    .table-style tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .table-style th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #1abc9c;
+        color: white;
+    }
+
+.normal-text {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: black;
+    padding-left: 20px;
+}
+
+    .normal-text:hover {
+        color: #1abc9c;
+    }
+
+.dropdown {
+    float: right;
+}

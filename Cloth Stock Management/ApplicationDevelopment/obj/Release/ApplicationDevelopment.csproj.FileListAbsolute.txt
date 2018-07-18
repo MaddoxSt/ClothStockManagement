@@ -1,0 +1,147 @@
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+C:\Users\astin\Documents\Visual Studio 2015\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+C:\Users\Sagar\Documents\Visual Studio 2017\Projects\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+C:\Users\Lekhn\Desktop\AD\Latest Update\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CoreCompileInputs.cache
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Sagar\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CoreCompileInputs.cache
+G:\AD Final\utf8''ApplicationDevelopment_4\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CopyComplete
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CoreCompileInputs.cache
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+D:\UV-Santos\L3C5\Final Year\Application Development\Second Semester\Coursework\Subit\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\csc.exe
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Collections.Immutable.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\System.Reflection.Metadata.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\vbc.exe
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\roslyn\VBCSCompiler.exe.config
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll.config
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\ApplicationDevelopment.pdb
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csprojResolveAssemblyReference.cache
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CoreCompileInputs.cache
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.csproj.CopyComplete
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.dll
+G:\Pure final\ApplicationDevelopment\ApplicationDevelopment\obj\Release\ApplicationDevelopment.pdb
